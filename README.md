@@ -15,4 +15,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
- <img src="tools.svg" style="width: 100%;" alt="Click to see the source" />
+ <img src="tool.svg" style="width: 100%;" alt="Click to see the source" />
