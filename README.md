@@ -14,5 +14,3 @@
 <a href="https://instagram.com/charly.romero.mx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="charly.romero.mx" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
- <img src="tool.svg" style="width: 100%;" alt="Click to see the source" />
